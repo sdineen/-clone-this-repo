@@ -6,6 +6,8 @@ public class Animal {
     private int legs;
     private String name;
 
+    int id;
+    
     public Animal() {
 
     }
