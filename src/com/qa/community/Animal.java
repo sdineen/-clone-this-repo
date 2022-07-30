@@ -5,10 +5,6 @@ public class Animal {
     private int age;
     private int legs;
     private String name;
-    int i;
-    int j;
-
-    int id;
     
     public Animal() {
 
