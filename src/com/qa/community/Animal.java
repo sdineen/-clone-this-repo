@@ -2,7 +2,7 @@ package com.qa.community;
 
 /**
  * 
- * @author Radu Lefter
+ * @author Simon Dineen
  *
  */
 public class Animal {
