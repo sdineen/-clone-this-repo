@@ -2,7 +2,7 @@ package com.qa.community;
 
 /**
  * 
- * @author Owner
+ * @author Simon
  *
  */
 public class Animal {
