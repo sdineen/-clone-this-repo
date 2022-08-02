@@ -1,5 +1,10 @@
 package com.qa.community;
 
+/**
+ * 
+ * @author Owner
+ *
+ */
 public class Animal {
 
     private int age;
